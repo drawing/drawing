@@ -6,8 +6,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on alibaba
-- 📫 How to reach me: cppbreak@qq.com
+- 🔭 I’m currently working on Alibaba
+- 📫 How to reach me: fancymore@126.com
 
 <!--
 **drawing/drawing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
