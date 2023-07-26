@@ -54,9 +54,11 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/anuraghazra/github-readme-stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=drawing&theme=solarized-light)](https://git.io/streak-stats)
+
+
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drawing&theme=solarized-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drawing&theme=solarized-light)](https://github.com/drawing)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drawing&show_icons=true&count_private=true&theme=solarized-light)
 
