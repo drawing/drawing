@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=drawing&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=drawing&style=for-the-badge&color=blue" alt=""/>
 
 ---
 
